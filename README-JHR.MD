@@ -2,19 +2,15 @@ ExploratoryDataAnalysis_Project1
 ========================================================
 (README-JHR.MD is my codebook for this project)
 
-This is a project assignment that John Raphael completed
-for Coursera/JHU Exploratory Data Analysis (exdata-002),
-05/09/2014. 
+This is a project assignment completed
+for Coursera/JHU Exploratory Data Analysis,
+updated July 2015. 
 
 The assignment is detailed at https://github.com/rdpeng/ExData_Plotting1
 (README.MD file contains the assignment, the figures folder contains png examples from RD Peng)
 
 The original source of the data is:
 https://archive.ics.uci.edu/ml/datasets/Individual+household+electric+power+consumption "UC Irvive Machine Learning Archive Dataset"
-
-
-MD prepared by John Raphael, (github user whitefishdontjump) 
-Platform: Windows Vista sp2, 32-bit, R3.1, RStudio 0.98.507)
 
 Procedure:
    I wrote and used getdata() function (source: getdata.R) which:
@@ -34,7 +30,7 @@ Procedure:
    
    7. initializes some parameters common to most plots, exports these to global environment.
    
-   Note: getdata() includes console messages to indicate progress.  For me, it ran about 2 minutes
+   Note: getdata() includes console messages to indicate progress.  
 
 Plots:
     There are 4 plot scripts (plot1.R, plot2.R,  . . .)
